@@ -1,0 +1,19 @@
+---
+
+Employee:
+  Age: 30
+  Name: pratik
+  payslips:
+    - 
+      Month: June
+      wage: 4000
+    -
+      Month: August
+      wage: 4500
+  Projects:
+    - automation
+    - Support
+  sex: Male
+  Titla: "system Engineer"
+---
+ 
